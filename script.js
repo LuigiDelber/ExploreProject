@@ -14,8 +14,8 @@ menuToogle.onclick = () => {
 };
 
 // Cambio video
-// const switchBtn = document.getElementById("switchVideoBtn");
-// const videoElement = document.getElementById("heroVideo");
+const switchBtn = document.getElementById("switchVideoBtn");
+const videoElement = document.getElementById("heroVideo");
 
 const videoSources = [
   "res/Video1.mp4",
